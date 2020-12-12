@@ -14,7 +14,7 @@ Due to rapid pace of change in fashion trends, automated generation of apparel d
 
 Using the generative adversarial network, we train the model with large garment dataset with which we expect to receive new garment designs. 
 
-![](dcgan.gif)
+![](https://github.com/lakshmi4296/GarmentGenerator/tree/main/Misc/dcgan.gif)
 
 # SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
@@ -27,11 +27,11 @@ Using the generative adversarial network, we train the model with large garment 
 
 # SECTION 4 : USER GUIDE
 
-https://github.com/Doraiswamy/GAN-fashion-set-generator/tree/master/UserGuide
+https://github.com/lakshmi4296/GarmentGenerator/tree/main/UserGuide
 
 **Back-end**
  
-•	Clone the repository https://github.com/Doraiswamy/GAN-fashion-set-generator into a separate directory.
+•	Clone the repository https://github.com/lakshmi4296/GarmentGenerator into a separate directory.
 
 •	Choose the editor of your choice. For example, PyCharm, Spyder etc. Note that this is not a compulsory step, it is only if you want to view the code.
 
@@ -54,4 +54,4 @@ Open the browser of your choice. In this case, we are using Mozilla Firefox. Mak
 
 # SECTION 5 : PROJECT REPORT / PAPER
 
-https://github.com/Doraiswamy/GAN-fashion-set-generator/tree/master/ProjectReport
+https://github.com/lakshmi4296/GarmentGenerator/tree/main/ProjectReport
