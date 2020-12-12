@@ -14,6 +14,8 @@ Due to rapid pace of change in fashion trends, automated generation of apparel d
 
 Using the generative adversarial network, we train the model with large garment dataset with which we expect to receive new garment designs. 
 
+![](dcgan.gif)
+
 # SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 <!-- Tables -->
